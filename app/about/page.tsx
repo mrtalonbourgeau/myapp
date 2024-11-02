@@ -3,7 +3,7 @@ import Link from "next/link"
 function About() {
     
     return <>
-            <Link href="/about">About</Link>
+            <Link href="/">Home</Link>
             <div>About</div>
         </>
   }
